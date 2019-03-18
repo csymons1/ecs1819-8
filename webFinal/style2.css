@@ -1,0 +1,113 @@
+.aca {
+    margin-right:15px;
+    font-size:20px;
+    font-family:Montserrat;
+
+}
+.sport {
+    margin-right:15px;
+    font-size:20px;
+     font-family:Montserrat;
+}
+.fut {
+    font-size:20px;
+     font-family:Montserrat;
+}
+.jumbotron {
+    height:330  !important;
+    transition: 1000ms;
+    background-size:cover;
+}
+.jumbotron:hover {
+  transition: 1000ms;
+}
+h1 {
+
+    font-family: Montserrat !important;
+    color: #290071 !important;
+    font-size:90px !important;
+    opacity:.4;
+    margin-top:6% !important;
+    background: -webkit-linear-gradient(#290071, #000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+h1#fade {
+  border: 1px solid rgba(292, 292, 292, 0);
+  -webkit-transition: border 600ms ease;
+  -moz-transition: border 600ms ease;
+  -ms-transition: border 600ms ease;
+  -o-transition: border 600ms ease;
+  transition: border 600ms ease; 
+}
+h1#fade:hover {
+  border: 1px solid #5c9985;
+  
+  
+}
+h2 {
+    text-align:center;
+    font-family: Montserrat !important;
+    font-size:45px !important;
+    color:silver !important;
+}
+h2#fade {
+  border-bottom: 1px solid rgba(192, 192, 192, 0);
+  -webkit-transition: border 600ms ease;
+  -moz-transition: border 600ms ease;
+  -ms-transition: border 600ms ease;
+  -o-transition: border 600ms ease;
+  transition: border 600ms ease; 
+}
+h2#fade:hover {
+  border-bottom: 1px solid rgba(192, 192, 192, 1);
+}
+p {
+    text-align:center;
+    font-family:Montserrat;
+    opacity:.8;
+    padding-left:250;
+     padding-right:250;
+}
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: 	#228B22;
+  border-radius: 50%;
+  display: inline-block;
+  opacity:.45;
+}
+.h2new {
+    opacity:.999;
+}
+#heh {
+    margin-right:37%;
+    margin-left:10%;
+}
+#hoh {
+    margin-right:37%;
+}
+.wavee {
+    width:2500px;
+height:26px;
+opacity:.8;
+}
+.logo {
+    text-align:center;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+    height:240;
+}
+.heo {
+    text-align:center;
+     
+}
+button {
+    font-family:Montserrat !important;
+    border-radius: 25px !important;
+    background-color:#d3d3d3;
+   box-shadow: -2px 4px #555;
+  
+}

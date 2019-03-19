@@ -124,7 +124,7 @@ img {
   padding: 2px 16px;
 }
 #oh {
-    margin-right:370px;
+    margin-right:365px;
 }
 .rr {
     text-align:center;
@@ -143,4 +143,7 @@ button {
 }
 .buttton {
     text-align:center;
+}
+.up {
+    padding-bottom:270px !important;
 }

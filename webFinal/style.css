@@ -26,15 +26,7 @@ h1{
     height:auto;
     display:inline-block;
 }
-button {
-    color: white;
-    background-color:#9400D345;
-    opacity:.5;
-  border-radius:12px !important;
-  width:142px;
-  height:33px;
- border-color:#a0a0a0;
-}
+
 
 .first {
      margin-right:17%;
@@ -102,7 +94,7 @@ img {
     width:300;
 }
 .aca {
-    margin-right:15px;
+    margin-right:16px;
     font-size:20px;
     font-family:Montserrat;
 
@@ -132,7 +124,7 @@ img {
   padding: 2px 16px;
 }
 #oh {
-    margin-right:380px;
+    margin-right:370px;
 }
 .rr {
     text-align:center;
@@ -142,4 +134,13 @@ img {
 height:26px;
 opacity:.8;
 
+}
+button {
+    background-color:#228822;
+    text-align:center;
+    font-family:Montserrat ;
+    border-radius: 25px !important;
+}
+.buttton {
+    text-align:center;
 }

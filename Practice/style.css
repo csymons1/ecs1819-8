@@ -1,4 +1,5 @@
-body {
-    text-align:center;
-    background-color:#ff0000;
+.hd {
+    font-family: Press Start 2p;
+    background-color:black;
+    color:orange;
 }

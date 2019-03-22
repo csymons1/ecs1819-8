@@ -105,6 +105,7 @@ img {
      font-family:Montserrat;
 }
 .fut {
+    margin-right:15px;
     font-size:20px;
      font-family:Montserrat;
 }
@@ -124,19 +125,20 @@ img {
   padding: 2px 16px;
 }
 #oh {
-    margin-right:365px;
+    margin-right:345px;
 }
 .rr {
     text-align:center;
 }
 .wavee {
-    width:2500px;
+    width:2000px;
 height:26px;
 opacity:.8;
 
 }
 button {
-    background-color:#228822;
+    background-color:#508850;
+     box-shadow: -2px 4px #555;
     text-align:center;
     font-family:Montserrat ;
     border-radius: 25px !important;
